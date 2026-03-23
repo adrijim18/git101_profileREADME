@@ -6,3 +6,5 @@ Este archivo tiene dos funciones:
 2. Es un archivo para practicar la modificación y la resolución de conflictos.
 
 ## Alumni
+
+* [pamelasann](https://github.com/pamelasann)
