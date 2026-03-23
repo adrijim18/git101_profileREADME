@@ -8,4 +8,4 @@ Este archivo tiene dos funciones:
 ## Alumni
 
 * [pamelasann](https://github.com/pamelasann)
-* [adrijim18] (https://github.com/adrijim18)
+* [adrijim18](https://github.com/adrijim18)
