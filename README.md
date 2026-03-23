@@ -40,7 +40,7 @@ Ahora vas a contribuir a este repositorio agregando tu nombre y GitHub profile R
 
 ### 2. Clona tu fork
 ```
-git clone https://github.com/pamelasann/git101_profileREADME
+git clone <url>
 cd git101_profileREADME
 ```
 
